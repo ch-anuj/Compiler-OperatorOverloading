@@ -1,9 +1,7 @@
 TO RUN
 ======
-
-``` $ make
-    $ ./LEXER   <cfg-file>    <test-file>    <output-html-file>
-```
+ $ make
+ $ ./LEXER   <cfg-file>    <test-file>    <output-html-file>
 TO CLEAN
 ========
 
